@@ -1,6 +1,6 @@
 # js-algorithms
 
-Common computer science algorithms written in JavaScript. These are intended as practice exercises for myself and I make no claim that they are the optimal implementations.
+Common computer science algorithms written in JavaScript. These are solely intended as practice exercises for myself.
 
 Tests for each algorithm are written in Jest and live inside of a `.test.js` file.
 
